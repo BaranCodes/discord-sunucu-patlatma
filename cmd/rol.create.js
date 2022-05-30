@@ -1,5 +1,5 @@
 module.exports = {
-  name:"rol.spam",
+  name:"rol.create",
   code:`
   $sendMessage[Rol Spam :white_check_mark:{delete:2s};no]
   $wait[2s]
