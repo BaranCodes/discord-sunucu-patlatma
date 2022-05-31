@@ -14,7 +14,7 @@
 `ghost/status` dosyasına girin. <br>
 - `text` kısmını değiştirebilirsiniz.
 - `type` kısmını değiştirebilirsiniz.
-- `status ` kısmını değiştirebilirsiniz. (online,dnd,idle)
+- `status` kısmını değiştirebilirsiniz. (online,dnd,idle)
 
 
 
