@@ -1,5 +1,5 @@
 # Discord Sunucu Patlatma Altyapısı | Aoi.Js V5.2.0
-### Coded By: [` Just GhOsT#9697](https://discord.com/users/573504001732116490)
+### Coded By: [GhOsT#9697](https://discord.com/users/573504001732116490)
 
 ## Ayarlanacaklar
 `ghost/variables.js`  dosyasına girin. <br>
