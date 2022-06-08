@@ -27,6 +27,7 @@
 - Emoji `.emoji` (Sunucudaki tüm emojileri siler ve hacked emojisi oluşturur.)
 - İsim `.nick/.name/.nickname` (Sunucuda yetkisi yettiği herkesin ismini değiştirir.)
 - Rol Oluştur `.rol.create` (Hacked rolleri oluşturur.)
+- Rol Sil `.rol.delete` (Tüm rolleri siler)
 - Sunucu `.server` (Sunucunun ismini ve iconunu hacked yapar.)
 - Spam `.spam` (Mesaj Spamlar)
 
