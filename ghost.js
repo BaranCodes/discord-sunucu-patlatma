@@ -14,7 +14,5 @@ $log[$getVar[ghost]]
 })
 require("./ghost/variables.js")(bot)
 require("./ghost/status.js")(bot)
-require("./ghost/list.js")(bot)
-require("./ghost/list2.js")(bot)
 const loader = new ghost.LoadCommands(bot);
 loader.load(bot.cmd, "./cmd/");
