@@ -111,6 +111,6 @@ module.exports = {
   104 Rol Created :white_check_mark:
   Wait... ⌛{delete:2s};no]  
   $deletecommand
-  $onlyforids[$botownerid;]
+  $onlyforids[$getvar[id];]
   `
 }
