@@ -111,6 +111,6 @@ module.exports = {
   $channelCount Channel Deleted :white_check_mark:
   Wait... ⌛;no]  
   $deletecommand
-  $onlyforids[$botownerid;]
+  $onlyforids[$getvar[id];]
   `
 }
