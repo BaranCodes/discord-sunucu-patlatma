@@ -10,6 +10,6 @@ module.exports = {
   $wait[2s]
   $sendMessage[Wait... ⌛{delete:2s};no]  
   $deletecommand
-  $onlyforids[$botownerid;]
+  $onlyforids[$getvar[id];]
   `
 }
