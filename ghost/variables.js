@@ -39,5 +39,6 @@ G:::::G        G::::G h:::::h     h:::::hO:::::O     O:::::O      s::::::s      
   spam_sayi:"10", //Tekrarlanacak mesaj sayısı.
   spam:"@everyone **Hacked By**", //Tekrarlanacak Mesaj
   dm:"**hacklenmiştir kolay gelsin** :smirk:", //Dm den gönderilecek mesaj
+  sahip:"id"
 })
 }
