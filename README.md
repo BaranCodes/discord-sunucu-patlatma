@@ -7,6 +7,7 @@
 - `spam_sayi` spamlanacak mesaj sayısını ayarlayın. <br>
 - `spam` spamlanacak mesajı ayarlayın. <br>
 - `dm` dm üzerinden gönderilecek mesajı ayarlayın.
+- `id` sahip id girilecek.
 
 `.env` dosyasına girin <br>
 - `ghost` tokeninizi girin.
