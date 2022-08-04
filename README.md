@@ -24,7 +24,7 @@
 - Kanal Sil `.channel.delete` (Tüm kanalları siler.)
 - Kanal Spam `.channel.spam` (Tüm kanalları siler ve hacked kanalları oluşturur.)
 - Yetki `.perm/.admin/.rol` (Yönetici iznine sahip bir rol oluşturup size verir.)
-- Dm `.dm` (Sunucudaki herkese dm mesaj atar.)
+- Dm `.dm` (Sunucudaki herkese dm mesaj atar.)[HATALI...]
 - Emoji `.emoji` (Sunucudaki tüm emojileri siler ve hacked emojisi oluşturur.)
 - İsim `.nick/.name/.nickname` (Sunucuda yetkisi yettiği herkesin ismini değiştirir.)
 - Rol Oluştur `.rol.create` (Hacked rolleri oluşturur.)
