@@ -38,6 +38,8 @@ G:::::G        G::::G h:::::h     h:::::hO:::::O     O:::::O      s::::::s      
   spam_sayi:"10", //Tekrarlanacak mesaj sayısı.
   spam:"@everyone **Hacked By**", //Tekrarlanacak Mesaj
   dm:"**hacklenmiştir kolay gelsin** :smirk:", //Dm den gönderilecek mesaj
-  id:"sahip id"
+  id:"sahip id",
+  sunucuid:"ID", //Patlacağınız Sunucunun ID'Si. Eğer Girmezseniz Hata Verir.
+  kanalid:"ID" //Patlatacağınız Sunucudan Rastgele Bir Kanal ID'Si. Botun Silemeyeceği Bir Kanalı Öneriyorum. Topluluğu Etkin Sunucuda Kurallar Kanalı Gibi.
 })
 }
