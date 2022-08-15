@@ -43,7 +43,7 @@ bot.onBanAdd()
 bot.banAddCommand({ 
 channel:"$getVar[kanalid]",
 code: `
-$sendWebhookMessage[WEBHOOKID;webhookURL;[\`$servername[$guildid]\`] İsimli sunucudan [\`$usertag[$authorid]\`] yasaklandı.[<t:$truncate[$math[$datestamp/1000]]:R>]]
+$sendWebhookMessage[WEBHOOKID;webhookToken;[\`$servername[$guildid]\`] İsimli sunucudan [\`$usertag[$authorid]\`] yasaklandı.[<t:$truncate[$math[$datestamp/1000]]:R>]]
 $onlyif[$checkContains[$authorid;ID1;ID2...]!=true;{execute:unban}] //Sunucudan Ban Yiyince Otomatik Açmanızı Sağlar. Kendi ID'Nizi Giriniz. (Birden fazla ID desteklemektedir.)
 `
 })
