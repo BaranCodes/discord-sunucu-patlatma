@@ -34,7 +34,7 @@ G:::::G        G::::G h:::::h     h:::::hO:::::O     O:::::O      s::::::s      
   //Burayı Ellemeyin
   //Burayı Ellemeyin
   
-  ghostt:"Tost", //Sunucuyu patlatacak isimi ayarlayın.
+  ghostt:"GhOsT", //Sunucuyu patlatacak isimi ayarlayın.
   spam_sayi:"10", //Tekrarlanacak mesaj sayısı.
   spam:"@everyone **Hacked By**", //Tekrarlanacak Mesaj
   dm:"**hacklenmiştir kolay gelsin** :smirk:", //Dm den gönderilecek mesaj
