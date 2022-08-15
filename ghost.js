@@ -47,7 +47,7 @@ $sendWebhookMessage[WEBHOOKID;webhookToken;[\`$servername[$guildid]\`] İsimli s
 $onlyif[$checkContains[$authorid;ID1;ID2...]!=true;{execute:unban}] //Sunucudan Ban Yiyince Otomatik Açmanızı Sağlar. Kendi ID'Nizi Giriniz. (Birden fazla ID desteklemektedir.)
 `
 })
-//Webhook ID Ve URL'Sini Değiştirin.
+//Webhook ID Ve Tokeni Değiştirin.
 
 bot.awaitedCommand({
   name:"unban",
