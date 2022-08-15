@@ -1,7 +1,8 @@
 const ghost = require("aoi.js");
 const fs = require("node:fs")
+const token = "TOKEN"
 const bot = new ghost.Bot({
-  token: process.env.ghost,
+  token: token,
   prefix: ["."],
 intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_BANS"]
 })
